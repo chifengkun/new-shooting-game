@@ -1,0 +1,1 @@
+http://music.163.com/song/media/outer/url?id=xxxxxxxxxxxx.mp3  把id替换掉得到歌曲源地址
